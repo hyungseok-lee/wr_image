@@ -1,0 +1,6 @@
+diffusers
+transformers
+accelerate
+sentencepiece
+pillow
+gputil
